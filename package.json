@@ -1,0 +1,11 @@
+{
+  "name": "bs4projects",
+  "version": "1.0.0",
+  "description": "BootStrap4 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Koa Kekuna\"",
+  "license": "MIT"
+}
