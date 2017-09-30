@@ -4,7 +4,7 @@
   "description": "BootStrap4 projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "author": "Koa Kekuna",
   "license": "MIT",
